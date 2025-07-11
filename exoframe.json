@@ -1,5 +1,5 @@
 {
   "name": "simple_server",
-  "domain": "markjames-simple.xf.mkrs.link",
-  "port": "5000"
+  "domain": "markjames-simple-ci.xf.mkrs.link",
+  "port": "5001"
 }
